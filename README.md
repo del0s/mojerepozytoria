@@ -1,0 +1,2 @@
+# mojerepozytoria
+moj pierwszy git
